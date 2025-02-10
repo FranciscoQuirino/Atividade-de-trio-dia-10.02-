@@ -53,7 +53,7 @@ programa
             }
         }
 
-        // Exibindo a matriz resultante C
+        
         escreva("\nMatriz C (", m, "x", n, ") resultante:\n")
         para (inteiro i = 0; i < m; i++) {
             para (inteiro j = 0; j < n; j++) {
